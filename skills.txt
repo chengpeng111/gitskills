@@ -1,2 +1,3 @@
 this is from github clone to local
 creating a new branch is quick
+creating a new branch is quick & simple
